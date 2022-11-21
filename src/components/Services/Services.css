@@ -1,0 +1,20 @@
+.services {
+    width: 100%;
+    margin: 4rem 0;
+    text-align: center;
+}
+
+.services p {
+    color: #3782D7;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1.5;
+}
+
+.services h1 {
+    margin-top: 5px;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 2;
+}
