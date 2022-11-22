@@ -15,6 +15,16 @@
 .services h1 {
     margin-top: 5px;
     font-size: 35px;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 2;
+}
+
+.services .card {
+    margin: 0 -5px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    align-self: center;
+    justify-content: space-around;
+    padding: 1rem;
 }
