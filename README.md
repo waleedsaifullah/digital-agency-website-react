@@ -1,2 +1,7 @@
-# Digital Marketing Agency Website created using React.js framework
+# Digital Marketing Agency Website
 
+### Frameworks used:
+
+* React.js
+* HTML/ CSS
+* Javascript
